@@ -5,7 +5,7 @@
   "ligature": false,
   "feature_freeze": {
     "cv01": "enable",
-    "cv02": "ignore",
+    "cv02": "enable",
     "cv03": "enable",
     "cv04": "ignore",
     "cv05": "ignore",
